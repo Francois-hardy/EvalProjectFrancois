@@ -1,10 +1,10 @@
-package com.projectevalfrancois.evalprojectfrancois;
+package com.weather.weather;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EvalProjectFrancoisApplicationTests {
+class WeatherApplicationTests {
 
     @Test
     void contextLoads() {
